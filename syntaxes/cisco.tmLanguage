@@ -5,6 +5,7 @@
 	<key>fileTypes</key>
 	<array>
 		<string>ios</string>
+		<string>cfg</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>^interface|^router|^ip access-list extended</string>
